@@ -5,20 +5,22 @@
   "preferGlobal": true,
   "dependencies": {
     "async": "^3.1.0",
-    "colors": "*",
+    "colors": "1.4.0",
     "gettemporaryfilepath": "1.0.0",
-    "nan": "^2.14.0",
+    "nan": "^2.14.2",
     "node-pre-gyp": "^0.14.0",
     "pace": "~0.0.4",
     "progress": "~2.0.3"
   },
   "devDependencies": {
+ snyk-upgrade-0b2b3ae18b8b8d10c3e5183e6f430cbf
     "aws-sdk": "^2.932.0",
+
     "electron-rebuild": "^1.8.6",
-    "eslint": "^6.6.0",
+    "eslint": "^6.8.0",
     "eslint-utils": "^1.4.3",
     "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-require-path-exists": "^1.1.9",

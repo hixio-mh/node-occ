@@ -17,8 +17,8 @@
     "progress": "~2.0.3"
   },
   "devDependencies": {
- snyk-upgrade-0b2b3ae18b8b8d10c3e5183e6f430cbf
-    "aws-sdk": "^2.932.0",
+ snyk-upgrade-27b2dca5fee5a4abf9df46da38d3b79c
+    "aws-sdk": "^2.933.0",
 
     "electron-rebuild": "^1.8.6",
     "eslint": "^6.8.0",

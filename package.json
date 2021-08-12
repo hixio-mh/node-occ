@@ -9,8 +9,10 @@
     "colors": "*",
 
     "gettemporaryfilepath": "1.0.0",
-    "nan": "^2.14.2",
-    "node-pre-gyp": "^0.14.0",
+ snyk-upgrade-a38be6ca7c6442cb20a622659b02eaa4
+    "nan": "^2.14.0",
+    "node-pre-gyp": "^0.16.0",
+
     "pace": "~0.0.4",
     "progress": "~2.0.3"
   },
